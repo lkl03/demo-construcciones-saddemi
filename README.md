@@ -1,2 +1,7 @@
-# demo-construcciones-saddemi
-Demo web para Construcciones Saddemi — diseñada por eterlab.
+# Construcciones Saddemi
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
